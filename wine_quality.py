@@ -9,7 +9,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import (
     confusion_matrix,
     accuracy_score,
-    classification_report,
     precision_score,
     recall_score,
     f1_score,
