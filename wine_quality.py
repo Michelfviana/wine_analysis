@@ -1,7 +1,3 @@
-# Wine Quality Analysis using Support Vector Machine (SVM)
-# Artificial Intelligence Project (EER)
-# Author: Michel Ferreira Viana de Carvalho
-
 import pandas as pd
 import numpy as np
 from sklearn.svm import SVC
